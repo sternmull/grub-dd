@@ -783,6 +783,11 @@ module = {
 };
 
 module = {
+  name = dd;
+  common = commands/dd.c;
+};
+
+module = {
   name = drivemap;
 
   i386_pc = commands/i386/pc/drivemap.c;
